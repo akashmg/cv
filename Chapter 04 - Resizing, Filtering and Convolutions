@@ -1,0 +1,13 @@
+Chapter 04 - Resizing, Filtering and Convolutions
+
+Resizing -
+ Nearest neighbor
+ Bilinear
+ Coordinate mapping - solve equation for line
+
+Filtering - helps with resizing because interpolation is bad at this
+ Gaussian (smoothing)
+ High pass
+ Emboss
+ Edge
+ Sobel

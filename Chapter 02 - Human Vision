@@ -1,0 +1,70 @@
+Chapter 02 - Human Vision
+
+Ganglia transmit info to brain
+- ~ 1 million of them
+- Different ganglia connect to different kinds of photoreceptors, sensitive to different things
+- M cells: depth, movementm, orientation/position of objects
+- P cells: color, shape, fine details
+
+Visual cortex interprets data
+- More than 30 different substructures in the brain for processing visual data
+- V1: primary visual cortex
+  - Edge detection
+  - Highly spatially sensitive
+- V2: secondary visual cortex
+  - Size, color, shape, possibly memory
+  - Sends signals onwward to V3, V4, V5
+  - Sends strong feedback back to V1
+- Many of these system functions are not well understood
+Visual cortex is split (maybe)
+
+Ventral vs dorsal stream
+Ventral
+- recognition/identification
+- High spatial frequencies, details
+- Long term stored representations
+- Relatively slow
+- Typically high consciousness
+- Allocentric or object centered
+- Mainly foveal or parafoveal
+- Generally reasonably small effects
+
+Dorsal
+- Visually guided behavior
+- High temporal frequencies - motion
+- only very short-term storage
+- Relatively fast
+- Typically low consciousness
+- Egocentric or viewer-centered
+- Across retina
+- Often large effects, eg. motion parallax
+
+What does this split mean?
+- Recognition and action are split
+- Damage to dorsal system:
+  - Can recognize objects
+  - Poor visual control for tasks like grasping
+- Damage to ventral system
+  - Cannot recognize objects
+  - Can still manipulate them, grasping, etc,
+- Much of the information in the dorsal system is not consciously accesible
+
+Blindsight: vision without sight
+
+One eye
+- Focus: how much your lens must change to make object clear
+- Blur: objects that are blurry are at different depth
+- Parallax: observer or object moves, gets multiple views
+
+Two eyes
+- Steropsis: images from eyes are different
+- Convergence: where your eyes are pointing
+
+Brain
+- Kinetic depth: infer 3d shape of moving objects
+- Occlusion: objects in front are closer
+- Familiar objects: you know how big a car is...
+- Shading: 3d shape from light/shadow cues
+
+Operate on sRGB
+ - Typically ~ .3R + .59G + .11B

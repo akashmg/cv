@@ -1,0 +1,52 @@
+Chapter 01 - Introduction
+
+Vision
+Low-level:
+1. Resizing
+2. Grayscale
+3. Saturation
+4. Hue
+5. Edges
+6. Oriented Gradients
+7. Segmentation (color)
+
+Photo manipulation
+ - Size
+ - Color
+ - Exposure
+ - X-Pro II
+Feature extraction
+ - Edges
+ - Oriented gradients
+ - Segments
+
+Mid-level:
+1. Panorama Stitching
+2. Multi-View Stereo
+3. Structured Light Scan
+4. Range finding
+5. Optical Flow
+6. Time Lapse
+
+Image <-> Image
+ - Panoramas
+Image <-> World
+ - Multi-view stereo
+ - Structure from motion
+ - Structured light
+ - LIDAR
+Image <-> Time
+ - Optical flow
+ - Time lapse
+
+High-level:
+1. Classification - What is in the image?
+2. Tagging - What are ALL the things in the image?
+3. Detection - What are ALL the things in the image? Where are they?
+4. Semantic segmentation
+5. Instance segmentation
+Applications -
+- Single image 3D
+- Game playing
+- Super-resolution
+- Retrieval
